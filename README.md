@@ -1,10 +1,10 @@
-# 🚀 Crowdfunding Smart Contract
+#  Crowdfunding Smart Contract
 
 A decentralized crowdfunding smart contract built using Solidity and Hardhat. Users can create campaigns, contribute ETH, and receive refunds if funding goals are not met.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stacks
 - Solidity
 - Hardhat
 - Alchemy
@@ -13,7 +13,7 @@ A decentralized crowdfunding smart contract built using Solidity and Hardhat. Us
 
 ---
 
-## 🔥 Features
+##  Features
 - Create crowdfunding campaigns
 - Contribute ETH securely
 - Claim funds after reaching goal
@@ -22,38 +22,38 @@ A decentralized crowdfunding smart contract built using Solidity and Hardhat. Us
 
 ---
 
-## 🧪 Testing
+## Testing
 - 11/11 test cases passed
 - Includes edge case handling
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 Contract deployed on Sepolia Testnet:
 
-👉 (paste your etherscan link here)
+ (paste your etherscan link here)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 /contracts  
 /scripts  
 /test  
 
 ---
 
-## 🔐 Security
+##  Security
 - Input validation using require()
 - Secure fund handling
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Frontend (React + Ethers.js)
 - IPFS integration
 - DAO governance system
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Nafii Islam
