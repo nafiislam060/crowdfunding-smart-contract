@@ -1,13 +1,4 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+# crowdfunding-smart-contract
+Decentralized crowdfunding smart contract built with Solidity, Hardhat, and deployed on Ethereum Sepolia testnet with secure fund handling and refund logic.
+>>>>>>> d013fc5b735a80e0293b31c515bd1fc333f16cbc
